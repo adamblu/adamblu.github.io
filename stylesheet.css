@@ -47,5 +47,6 @@ a:visited {
 }
 
 #gearbox {
-    margin: auto 925px;
+    margin: 0 0;
+    text-align: center;
 }
